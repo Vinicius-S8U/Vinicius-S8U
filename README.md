@@ -22,7 +22,6 @@
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-S8U&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S8U&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-S8U&theme=vue-dark&hide_border=true">
 </div>
 
 ## Redes para contato
