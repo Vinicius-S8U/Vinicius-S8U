@@ -1,13 +1,13 @@
 ### Opa Vinicius Barbosa ao seu dispor 😉
 
-- 🔭 Hoje Trabalho com Mobile Kotlin 
-- 🌱 Estou estudando MLKit e MVVM + Clean 
+- 🔭 Hoje estou cursando Pós-Gradução em Ia na Fiap
 
 ## Linguagens
 
 <div style="display: inline_block">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-KT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
